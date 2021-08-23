@@ -10,8 +10,7 @@ ACHIEVEMENTS_NOT_LOADED: '§6§lСервер §8| §fДостижения не �
 ACHIEVEMENTS_GUI: '§8Достижения'
 HIDEN_ACHIEVEMENTS_GUI: '§8Достижения ▸ Секретные'
 LOBBY_ACHIEVEMENTS_GUI: '§8Достижения ▸ Лобби'
-SURVIVAL_ACHIEVEMENTS_GUI: '§8Достижения ▸ Выживание'
-ONEBLOCK_ACHIEVEMENTS_GUI: '§8Достижения ▸ Один Блок'
+SURVIVAL_ACHIEVEMEN ▸ Один Блок'
 LUCKYWARS_ACHIEVEMENTS_GUI: '§8Достижения ▸ LuckyWars'
 SKYWARS_ACHIEVEMENTS_GUI: '§8Достижения ▸ SkyWars'
 BEDWARS_ACHIEVEMENTS_GUI: '§8Достижения ▸ BedWars'
@@ -27,7 +26,7 @@ ACHIEVEMENTS_HIDEN_LORE:
 ACHIEVEMENTS_SURVIVAL_NAME: '§2§lВыживание'
 ACHIEVEMENTS_SURVIVAL_LORE: 
 - ''
-- ' §7Эти достижения выполняются'
+- ' §7Эти достижения выполняютс2222222222я'
 - ' §7на режиме Выживание'
 - ''
 - ' §8▪ §fВыполнено: §e%s§8/§a%s §b%s §6%s'
